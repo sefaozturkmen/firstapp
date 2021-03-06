@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-My first experience of React JS. I'm using local json data.
+My first experience of React JS. I'm used local json data.
 
 ### `npm start`
 
