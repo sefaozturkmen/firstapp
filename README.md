@@ -2,9 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Description
-
-My first experience of React JS. I'm used local json data.
 
 ### `npm start`
 
